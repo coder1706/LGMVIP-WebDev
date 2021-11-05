@@ -57,6 +57,11 @@
     background-color: rgba(115, 173, 33, 0.25);
 }
 
+.profile:hover {
+    cursor: pointer;
+    background-color: rgba(115, 173, 33, 0.25);
+}
+
 .avatar {
     border-radius: 50%;
 }
